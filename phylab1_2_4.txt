@@ -1,0 +1,5 @@
+"Resistance Rli,"	"Uncertainty Rli,"	Voltage V,V	"Uncertainty V,V"	"Current I, mA"	"Uncertainty I, mA"
+2692	5	6.471	0.0005	2.408	0.0005
+465	5	6.443	0.0005	13.847	0.0005
+215.15	0.005	6.394	0.0005	29.7	0.05
+99.96	0.005	6.305	0.0005	63.02	0.005
